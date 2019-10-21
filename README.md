@@ -8,3 +8,4 @@ Completed Labs for Lois Lee
 3. [Lab 3](https://github.com/lois-lee/IDD-Fa19-Lab3)
 4. [Lab 4](https://github.com/lois-lee/IDD-Fa19-Lab4)
 4. [Lab 5](https://github.com/lois-lee/IDD-Fa19-Lab5)
+5. [Lab 6](https://github.com/lois-lee/IDD-Fa19-Lab6)
